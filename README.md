@@ -8,7 +8,7 @@
 ## Instrucciones
 
 - Clonar el repositorio
-- En la terminar ir al proyecto clonado
+- En la terminal ir al repositorio clonado
 - Levantar el servicio con el comando
 
 `sudo docker-compose up`
